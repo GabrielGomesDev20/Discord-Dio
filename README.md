@@ -11,6 +11,10 @@ O projeto recria a página inicial do Discord, procurando manter a mesma aparên
 - **HTML5**: Utilizado para a estruturação do conteúdo.
 - **CSS**: Utilizado para o estilo e layout da página, incluindo recursos avançados de design responsivo.
 
-Para ter acesso ao projeto no seu dispositivo [CLique Aqui](LICENSE).
+Para ter acesso ao projeto no seu dispositivo [Clique Aqui](LICENSE).
 
+
+<br>
+<img src="./assets/images/Foto git - Desktop.png" alt="">
+<img src="./assets/images/Foto git - Cell.png" alt="">
 
